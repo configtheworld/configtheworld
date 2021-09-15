@@ -24,8 +24,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ##### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=configtheworld&theme=soft-green&hide_border=true&background=FFFEFE&border=343434&fire=786ADD&currStreakNum=786ADD&currStreakLabel=555555&sideLabels=786ADD&dates=43E95E)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=configtheworld&exclude_repo=HTTU&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=configtheworld&theme=soft-green&hide_border=true&background=FFFEFE&border=343434&fire=786ADD&currStreakNum=786ADD&currStreakLabel=555555&sideLabels=786ADD&dates=43E95E)](https://github.com/configtheworld)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=configtheworld&exclude_repo=HTTU&layout=compact&hide_border=true)](https://github.com/configtheworld)
 
 ##### My Packages
 [![NPM](https://nodei.co/npm/indexed-object-to-array.png?downloads=true)](https://www.npmjs.com/package/indexed-object-to-array)
