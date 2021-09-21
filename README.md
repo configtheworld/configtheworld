@@ -70,6 +70,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 [![configtheworld StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13969786)](https://stackoverflow.com/users/13969786/configtheworld)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/erkinture?hr_r=1)
 
 [![configtheworld's github activity graph](https://activity-graph.herokuapp.com/graph?username=configtheworld&theme=github-light)](https://github.com/configtheworld)
 
