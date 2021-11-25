@@ -10,7 +10,6 @@
 
 
 ###### Currently Getting Experiences For My Future Startups🌌
-###### 👨‍💻 Frontend Developer @ Integrio 
 ###### Freelance Full Stack Web Developer 
 ###### @ Weekends Personal Project Challanger 🌱 
 ###### 💼 Remote job offer or freelance work? [contact me](mailto:configtheworld@gmail.com)
