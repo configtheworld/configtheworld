@@ -2,15 +2,14 @@
 
 [![Website Badge](https://img.shields.io/static/v1?label=website&message=configtheworld&color=lightgrey)](https://configtheworld.github.io/erkinture/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Erkin&color=informational)](https://www.linkedin.com/in/erkin-berk-t%C3%BCre-76ab60163/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://gitlab.com/erkinture)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/configtheworld)
-
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/erkinture)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/configtheworld)
 [![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/configtheworld)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=8312c96)
+[![configtheworld StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13969786)](https://stackoverflow.com/users/13969786/configtheworld)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/erkinture?hr_r=1)
 
-
-###### Learning
-###### Full Stack Web Developer who curious about Software Architecture and Design, Software Project Management, and Distributed Systems
+##### Full Stack Web Developer who curious about Software Architecture and Design, Software Project Management, and Distributed Systems
 ###### @ Weekends Personal Project Challanger 🌱 
 ###### 💼 Remote job offer or freelance work? [contact me](mailto:configtheworld@gmail.com)
 ###### 💬 ask me about anything, i am happy to help;
@@ -25,6 +24,7 @@
 
 ##### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=configtheworld&theme=soft-green&hide_border=true&background=FFFEFE&border=343434&fire=786ADD&currStreakNum=786ADD&currStreakLabel=555555&sideLabels=786ADD&dates=43E95E)](https://github.com/configtheworld)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=configtheworld&exclude_repo=HTTU&layout=compact&hide_border=true)](https://github.com/configtheworld)
 
 ##### My Packages
@@ -32,6 +32,7 @@
 
 ###### more are coming 📦📦📦
 
+<!---
 ##### ⚡ Languages & Technologies
 <code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,7 +45,7 @@
 <code><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 
 ###### Cloud Platforms and Technologies I've used
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
@@ -66,8 +67,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 
 
-[![configtheworld StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13969786)](https://stackoverflow.com/users/13969786/configtheworld)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/erkinture?hr_r=1)
 
 <!---[![configtheworld's github activity graph](https://activity-graph.herokuapp.com/graph?username=configtheworld&theme=github-light)](https://github.com/configtheworld) -->
 
