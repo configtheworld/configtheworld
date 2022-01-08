@@ -1,13 +1,12 @@
 # Hi, I am Erkin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Website Badge](https://img.shields.io/static/v1?label=website&message=configtheworld&color=lightgrey)](https://configtheworld.github.io/erkinture/)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Erkin&color=informational)](https://www.linkedin.com/in/erkin-berk-t%C3%BCre-76ab60163/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/erkinture)
+[![Website Badge](https://img.shields.io/static/v1?label=website&message=configtheworld&color=181717)](https://configtheworld.github.io/erkinture/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Erkin&color=181717)](https://www.linkedin.com/in/erkin-berk-t%C3%BCre-76ab60163/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=8312c96&right_color=#575757)
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/erkinture)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/configtheworld)
-[![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/configtheworld)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=8312c96)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-181717?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/erkinture?hr_r=1)
 [![configtheworld StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13969786)](https://stackoverflow.com/users/13969786/configtheworld)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/erkinture?hr_r=1)
 
 ##### Full Stack Web Developer who curious about Software Architecture and Design, Software Project Management, and Distributed Systems
 ###### @ Weekends Personal Project Challanger 🌱 
@@ -48,23 +47,23 @@
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 
 ###### Cloud Platforms and Technologies I've used
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-181717?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-181717?style=flat&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ###### Languages I've worked with
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-java-181717?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/PHP-181717?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=white)
 ###### UI Libraries 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=red)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-181717?style=flat&logo=ant-design&logoColor=red)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap)
 ###### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
 
 
 
