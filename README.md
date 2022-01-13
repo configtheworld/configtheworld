@@ -61,9 +61,10 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-181717?style=flat&logo=ant-design&logoColor=red)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap)
 ###### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat&logo=postgresql)
+
 
 
 
