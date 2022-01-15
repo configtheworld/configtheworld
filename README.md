@@ -11,7 +11,7 @@
 ##### Full Stack Web Developer who curious about Software Architecture and Design, Software Project Management, and Distributed Systems
 ###### @ Weekends Personal Project Challanger 🌱 
 ###### 💼 Remote job offer or freelance work? [contact me](mailto:configtheworld@gmail.com)
-###### 💬 Ask me about anything, i am happy to help;
+###### 💬 Ask me about anything, I am happy to help;
 
 ##### Currently Working With:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
