@@ -1,4 +1,4 @@
-# Hi, I am Erkin 
+# Hi, I am Erk
 
 [![Website Badge](https://img.shields.io/static/v1?label=website&message=configtheworld&color=181717)](https://configtheworld.github.io/erkinture/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Erkin&color=181717)](https://www.linkedin.com/in/erkin-berk-t%C3%BCre-76ab60163/)
