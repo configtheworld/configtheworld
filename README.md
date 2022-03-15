@@ -25,7 +25,7 @@
 ##### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=configtheworld&theme=soft-green&hide_border=true&background=22272E&fire=FB8C00&currStreakNum=00DC4D&currStreakLabel=f0f0f0&sideLabels=f0f0f0&dates=777777&ring=786ADD&stroke=FB8C00)](https://github.com/configtheworld)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=configtheworld&exclude_repo=HTTU&theme=discord_old_blurple&layout=compact&hide_border=true)](https://github.com/configtheworld)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=configtheworld&hide=TSQL&langs_count=5&card_width=430&theme=discord_old_blurple&layout=compact&hide_border=true)](https://github.com/configtheworld)
 
 ##### My Packages
 [![NPM](https://nodei.co/npm/indexed-object-to-array.png?downloads=true)](https://www.npmjs.com/package/indexed-object-to-array)
