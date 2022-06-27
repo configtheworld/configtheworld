@@ -10,8 +10,6 @@
 
 ##### Full Stack Web Developer who curious about Software Architecture and Design, Software Project Management, and Distributed Systems
 
-
-###### 💼 Remote job offer or freelance work? [contact me](mailto:configtheworld@gmail.com)
 ###### 💬 Ask me about something, I am happy to help [reach me](mailto:configtheworld@gmail.com)
 
 ##### Currently Working With:
@@ -21,6 +19,9 @@
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+##### Familiar Methodologies
+###### I love working with Agile frameworks like Scrum, Kanban, Sprint, and a combination of them. Scrum team member or scrum master (servant leader) positions take my interest.
 
 ##### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=configtheworld&theme=soft-green&hide_border=true&background=22272E&fire=FB8C00&currStreakNum=00DC4D&currStreakLabel=f0f0f0&sideLabels=f0f0f0&dates=777777&ring=786ADD&stroke=FB8C00)](https://github.com/configtheworld)
@@ -66,6 +67,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql)
 
+
+###### Languages
+![English](https://img.shields.io/badge/IELTS%20--%20Academic-Overall%206.5-red)
+
+![German](https://img.shields.io/badge/German-Elementary%20(progressing)-yellow)
 
 
 
