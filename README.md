@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=8312c96&right_color=#575757)
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/erkinture)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/configtheworld)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-181717?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/erkinture?hr_r=1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/configtheworld/)
 [![configtheworld StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13969786)](https://stackoverflow.com/users/13969786/configtheworld)
 
 ##### Full Stack Web Developer who curious about Software Architecture and Design, Software Project Management, and Distributed Systems
