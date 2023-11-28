@@ -31,8 +31,8 @@
 ##### My Packages
 [![NPM](https://nodei.co/npm/indexed-object-to-array.png?downloads=true)](https://www.npmjs.com/package/indexed-object-to-array)
 
+[![NPM](https://nodei.co/npm/vue3-otp-input-field.png?downloads=true)](https://www.npmjs.com/package/vue3-otp-input-field)
 ###### more are coming 📦📦📦
-
 <!---
 ##### ⚡ Languages & Technologies
 <code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
