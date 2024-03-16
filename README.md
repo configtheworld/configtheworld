@@ -1,6 +1,8 @@
 # Hello, Hallo, こんにちは, Hola, привет, Ciao, 你好, Bonjour, Merhaba!
 
-##### Empathetic Full-stack Developer with 2+ years of software development experience in global agile startups. Proven track record of delivering user-centric reliable web applications with best practices. Proficient in Javascript, Java, PHP, and Python programming languages. 
+##### Empathetic Full-stack Developer with 2+ years of software development experience in global agile startups. 
+
+##### Proven track record of delivering user-centric reliable web applications with best practices. Proficient in Javascript, Java, PHP, and Python programming languages. 
 
 ##### Experienced in designing, developing, and testing web applications with ReactJS and VueJS. 
 
