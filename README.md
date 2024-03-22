@@ -19,6 +19,6 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/erkinture)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/configtheworld)
 
-[![NPM](https://nodei.co/npm/indexed-object-to-array.png?downloads=true)](https://www.npmjs.com/package/indexed-object-to-array) [![NPM](https://nodei.co/npm/vue3-otp-input-field.png?downloads=true)](https://www.npmjs.com/package/vue3-otp-input-field) 
+<!-- [![NPM](https://nodei.co/npm/indexed-object-to-array.png?downloads=true)](https://www.npmjs.com/package/indexed-object-to-array) [![NPM](https://nodei.co/npm/vue3-otp-input-field.png?downloads=true)](https://www.npmjs.com/package/vue3-otp-input-field)  -->
 
 
